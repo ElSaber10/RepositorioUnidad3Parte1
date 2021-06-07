@@ -6,3 +6,4 @@ Algoritmo sin_titulo
 	Leer num2;
 	Escribir "Resultado de la suma es: " num1 + num2;
 FinAlgoritmo
+//hola mundo
