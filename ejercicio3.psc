@@ -4,3 +4,4 @@ Algoritmo sin_titulo
 	Escribir "Resultado del doble es: " num1*2;
 	Escribir "Resultado del triple es: " num1*3;
 FinAlgoritmo
+//commit agregado
