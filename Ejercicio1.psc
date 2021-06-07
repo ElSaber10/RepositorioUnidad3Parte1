@@ -7,3 +7,4 @@ Algoritmo sin_titulo
 	Escribir "Resultado de la suma es: " num1 + num2;
 FinAlgoritmo
 //hola mundo
+//jajajajajaja
