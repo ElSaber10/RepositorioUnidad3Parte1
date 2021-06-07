@@ -9,3 +9,4 @@ Algoritmo sin_titulo
 	n1 <- aux
 	Escribir  "El resultado es  " n1 " " n2;
 FinAlgoritmo
+// commit agregado
