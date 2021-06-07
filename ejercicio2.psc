@@ -1,7 +1,8 @@
 Algoritmo sin_titulo
-	Escribir "ingrese el país"
+	Escribir "ingrese el paÃ­s"
 	Leer pais;
 	Escribir "ingrese la capital"
 	Leer capital;
 	Escribir capital " Es la capital de: " pais
 FinAlgoritmo
+//commit agregado
