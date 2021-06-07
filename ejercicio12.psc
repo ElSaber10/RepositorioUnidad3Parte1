@@ -5,3 +5,4 @@ Algoritmo sin_titulo
 	fareneiht <- (celcius*9/5) +32
 	Escribir "El resultado en Fahrenheit " fareneiht
 FinAlgoritmo
+//asdfasdfsadf
