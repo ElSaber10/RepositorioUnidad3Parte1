@@ -8,3 +8,4 @@ Algoritmo sin_titulo
 		Escribir "No se puede dividir"
 	FinSi
 FinAlgoritmo
+//commit agregado
