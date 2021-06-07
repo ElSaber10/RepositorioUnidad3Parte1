@@ -4,3 +4,4 @@ Algoritmo sin_titulo
 	Escribir "El numero siguiente es: " num1+1;
 
 FinAlgoritmo
+//commit agregadoooooo
