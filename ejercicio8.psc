@@ -8,3 +8,4 @@ Algoritmo sin_titulo
 	Leer n3
 	Escribir  "El promedio es  " (n1 + n2 + n3) / 3;
 FinAlgoritmo
+//commit agregado
