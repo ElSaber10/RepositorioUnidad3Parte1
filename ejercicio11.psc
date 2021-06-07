@@ -8,3 +8,4 @@ Algoritmo sin_titulo
 	Escribir "valor en metros " c/100
 	Escribir "valor en pies " c/30.48
 FinAlgoritmo
+//jajajajajaja
