@@ -3,3 +3,4 @@ Algoritmo sin_titulo
 	Escribir "Aleatroio es: " aleato;
 	Escribir "Aleatorio disminuido al 15% es: " aleato - 15*(aleato/100);
 FinAlgoritmo
+//commit agregado
